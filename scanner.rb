@@ -1,3 +1,4 @@
+# the script need up to 10-15 minutes to finish
 require "ipaddr"
 require "net/ping"
 
